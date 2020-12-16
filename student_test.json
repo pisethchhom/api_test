@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "student1": {
       "id": 1,
       "first_name": "student1",
       "last_name": "student",
@@ -12,7 +11,7 @@
       "team_id": null,
       "team": null
     },
-    {
+  "student2": {
       "id": 2,
       "first_name": "student 2",
       "last_name": "student",
@@ -24,7 +23,7 @@
       "team_id": null,
       "team": null
     },
-    {
+    "student3": {
       "id": 3,
       "first_name": "student 3",
       "last_name": "student",
@@ -36,5 +35,5 @@
       "team_id": null,
       "team": null
     }
-  ]
+  
 }
